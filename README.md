@@ -1,7 +1,6 @@
 # Nonparametric Analysis of Heart Disease Data
 
-## Course Project - ISYE 6404: Nonparametric Data Analysis
-### Fall 2025
+## Project - ISYE 6404: Nonparametric Data Analy
 
 This repository contains my final project for ISYE 6404 Nonparametric Data Analysis. The project applies various nonparametric statistical methods to analyze heart disease data, exploring relationships between health indicators and heart disease presence.
 
@@ -16,9 +15,7 @@ In this project, I applied the following nonparametric techniques learned throug
 - Kruskal-Wallis tests for multiple group comparisons
 - M-Estimator logistic model for robust classification
 
-## Academic Context
-
-This analysis was completed as my final project for ISYE 6404 Nonparametric Data Analysis. The project demonstrates the practical application of nonparametric methods in healthcare data analysis, showing how these techniques can provide robust insights without relying on distributional assumptions.
+The project demonstrates the practical application of nonparametric methods in healthcare data analysis, showing how these techniques can provide robust insights without relying on distributional assumptions.
 
 ## Setup
 
@@ -102,18 +99,4 @@ The heart disease dataset (`data/heart.csv`) includes:
 - Exercise test data
 - Target variable: presence/absence of heart disease
 
-## Acknowledgments
-
-I would like to thank:
-- Professor [Name] for their guidance throughout this course
-- The teaching assistants for their valuable feedback
-- My peers in ISYE 6404 for the insightful discussions
-
-## Academic Integrity
-
-This project was completed as part of the ISYE 6404 course requirements. All work is my own, and proper citations are provided where appropriate.
-
----
-*Project completed by [Your Name]*
-*ISYE 6404: Nonparametric Data Analysis*
-*Fall 2025*
+-Vedika :)
