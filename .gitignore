@@ -1,0 +1,6 @@
+.venv/
+outputs/
+ocr_pages/
+annotated_extracted.txt
+annotated_ocr_full.txt
+*.pdf
