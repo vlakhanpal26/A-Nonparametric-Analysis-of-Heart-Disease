@@ -1,0 +1,12 @@
+## run_all.R - run the analysis pipeline
+source("00_setup.R")
+source("01_simple_linear_models.R")
+source("01b_gof_normality_plots.R")
+source("01c_ecdf_kde_splinecdf.R")
+source("02_mann_whitney.R")
+source("03_correlations.R")
+source("04_bootstrap_thalach_by_age.R")
+source("05_theilsen.R")
+source("06_kruskal_wallis.R")
+source("07_logistic_m_estimator.R")
+source("08_example_prediction.R")

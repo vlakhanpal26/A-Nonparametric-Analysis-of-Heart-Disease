@@ -1,3 +1,22 @@
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Python venv
+/.venv/
+
+# Outputs and temporary files
+/outputs/
+
+# OCR and annotated files (do not push)
+annotated*
+annotated_*.txt
+/Users/vedik/Desktop/NDA/annotated*.pdf
+ocr_pages/
+
+# System files
+.DS_Store
 .venv/
 outputs/
 ocr_pages/
